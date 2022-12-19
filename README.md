@@ -7,11 +7,11 @@ Syn is looking for Crystal Hunters!
 *(²Discovery of, and interaction with, Crystal-tainted creatures and Shard-holding antagonists included in the deal.)*
 
 <p align="center">
-  <img width="600" src="assets/arts/01.webp">
+  <img width="800" src="assets/arts/01.webp">
 </p>
 
 <p align="center">
-  <img width="600" src="assets/arts/16.webp">
+  <img width="800" src="assets/arts/16.webp">
 </p>
 
 ## Want to roll some DICE?
@@ -34,7 +34,7 @@ This module is a conversion from [Crystal Heart Starter Set](https://www.driveth
 [Crystal Heart Starter Set](https://www.drivethrurpg.com/product/254714)
 
 # Complete Module!
-If you liked Crystal Heart Starter Set you can have the full module with everything from the core book! Watch this preview:
+If you liked Crystal Heart Starter Set you can have the full module with everything from the core book! Click the image to watch the module preview on [Youtube](https://youtu.be/EX-YaEYc5Bk):
 [![Full Module Preview](assets/arts/02-01-Header-agents.webp)](https://youtu.be/EX-YaEYc5Bk)
 
 # LICENSE
