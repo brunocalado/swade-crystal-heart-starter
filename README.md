@@ -30,8 +30,12 @@ The Starter Set includes:
 </p>
 
 # Conversion
-This module is a conversion from [Crystal Heart Starter Set](https://www.drivethrurpg.com/product/254714/Crystal-Heart-Starter-Set). You can get the original at: 
-[Crystal Heart Starter Set](https://www.drivethrurpg.com/product/254714/Crystal-Heart-Starter-Set)
+This module is a conversion from [Crystal Heart Starter Set](https://www.drivethrurpg.com/product/254714). You can get the original at: 
+[Crystal Heart Starter Set](https://www.drivethrurpg.com/product/254714)
+
+# Complete Module!
+If you liked Crystal Heart Starter Set you can have the full module with everything from the core book! Watch this preview:
+[![Full Module Preview](assets/arts/02-01-Header-agents.webp)](https://youtu.be/EX-YaEYc5Bk)
 
 # LICENSE
 Crystal Heart, all unique characters, creatures, and locations, artwork and logos belong to Up to Four Players, Eran Aviram and Aviv Or. The artwork provided in this module is for personal use only with the Foundry Virtual Tabletop Software.
