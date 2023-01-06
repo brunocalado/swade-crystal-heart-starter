@@ -1,8 +1,7 @@
-{   
-  "id": "swade-crystal-heart-starter",   
+{
+  "id": "swade-crystal-heart-starter",
   "title": "Crystal Heart - Free Starter Set",
-  "description": "In the world of Crystal Heart, people's hearts are literally made of stone. Agents of the mysterious organization Syn scour the world in search of Crystals, powerful relics of a bygone age. Syn Agents replace their hearts with these Crystals, which grant incredible powers... but also affect the bearer’s personality in unpredictable ways.",   
-  
+  "description": "In the world of Crystal Heart, people's hearts are literally made of stone. Agents of the mysterious organization Syn scour the world in search of Crystals, powerful relics of a bygone age. Syn Agents replace their hearts with these Crystals, which grant incredible powers... but also affect the bearer’s personality in unpredictable ways.",
   "authors": [
     {
       "name": "Mestre Digital",
@@ -10,17 +9,11 @@
       "flags": {}
     }
   ],
-  
-  "version": "1.0.2",
+  "version": "1.0.3",
   "compatibility": {
     "minimum": "10",
     "verified": "10"
   },
-  
-  "esmodules": [
-    
-  ],
-
   "packs": [
     {
       "label": "Crystal Heart - Starter Set",
@@ -29,22 +22,18 @@
       "path": "packs/crystal-heart-starter-set.db",
       "system": "swade",
       "private": false,
-      "flags": {},
-      "package": "world"
+      "flags": {}
     }
   ],
-
   "relationships": {
     "systems": [
       {
         "id": "swade",
-        "type": "system"
+        "type": "system",
+        "compatibility": {}
       }
-    ]   
-  },  
-
- "styles": [],
-  
+    ]
+  },
   "url": "https://github.com/brunocalado/swade-crystal-heart-starter",
   "manifest": "https://raw.githubusercontent.com/brunocalado/swade-crystal-heart-starter/main/module.json",
   "download": "https://codeload.github.com/brunocalado/swade-crystal-heart-starter/zip/main"
