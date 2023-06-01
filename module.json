@@ -9,28 +9,26 @@
       "flags": {}
     }
   ],
-  "version": "1.0.4",
+  "version": "1.1.0",
   "compatibility": {
-    "minimum": "10",
-    "verified": "10"
+    "minimum": "11",
+    "verified": "11"
   },
   "packs": [
     {
       "label": "Crystal Heart - Starter Set",
       "type": "Adventure",
       "name": "crystal-heart-starter-set",
-      "path": "packs/crystal-heart-starter-set.db",
-      "system": "swade",
-      "private": false,
-      "flags": {}
+      "path": "packs/crystal-heart-starter-set",
+      "system": "swade"
     },
     {
       "label": "Actions - Crystal Heart",
       "type": "Item",
       "name": "actions-crystal-heart",
-      "path": "packs/actions-crystal-heart.db",
+      "path": "packs/actions-crystal-heart",
       "system": "swade"
-    }    
+    }
   ],
   "relationships": {
     "systems": [

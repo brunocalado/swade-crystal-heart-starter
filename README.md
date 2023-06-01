@@ -42,3 +42,6 @@ If you liked **Crystal Heart Starter Set** you can have the full module with eve
 
 # LICENSE
 Crystal Heart, all unique characters, creatures, and locations, artwork and logos belong to [Up to Four Players](https://www.uptofourplayers.com/crystal-heart-rpg/), Eran Aviram and Aviv Or. The artwork provided in this module is for personal use only with the Foundry Virtual Tabletop Software.
+
+# Mestre Digital
+About this module creator: https://sites.google.com/view/mestredigitalmodules
