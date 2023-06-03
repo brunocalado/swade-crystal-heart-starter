@@ -1,3 +1,6 @@
+1.1.1
+- fix duplicate AE
+
 1.1.0
 - v11+ only
 
