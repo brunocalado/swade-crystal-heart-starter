@@ -1,3 +1,7 @@
+# 1.3.0
+
+- v14 only
+
 1.1.1
 - fix duplicate AE
 
