@@ -15,9 +15,6 @@
   <img width="800" src="assets/arts/16.webp">
 </p>
 
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-red?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/mestredigital)
-
 ## Want to roll some DICE?
 
 Inspired by anime and superhero comics, the Crystal Heart roleplaying setting for Savage Worlds was developed in the webcomic Up to Four Players as the characters were playing it. Now you too can become a Syn Agent, explore ancient locations and hunt down powerful Crystals! Replace your heart with a Crystal and gain superpowers! *(also lose your mind; but just a little)*.
@@ -52,6 +49,8 @@ If you liked **Crystal Heart Starter Set** you can have the full module with eve
 
 Crystal Heart, all unique characters, creatures, and locations, artwork and logos belong to [Up to Four Players](https://www.uptofourplayers.com/crystal-heart-rpg/), Eran Aviram and Aviv Or. The artwork provided in this module is for personal use only with the Foundry Virtual Tabletop Software.
 
+You can read the full history of changes in the [LICENSE](LICENSE.md).
+
 # Mestre Digital
 
-About this module creator: https://sites.google.com/view/mestredigitalmodules
+- [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-red?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/mestredigital)
