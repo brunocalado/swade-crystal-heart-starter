@@ -5,31 +5,47 @@
   "authors": [
     {
       "name": "Mestre Digital",
-      "url": "https://www.youtube.com/c/MestreDigital",
+      "url": "http://youtube.com/@mestredigital",
       "flags": {}
     }
   ],
-  "version": "1.1.1",
+  "version": "1.3.0",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11"
+    "minimum": "14",
+    "verified": "14"
   },
   "packs": [
     {
-      "label": "Crystal Heart - Starter Set",
+      "label": "Adventure",
       "type": "Adventure",
       "name": "crystal-heart-starter-set",
       "path": "packs/crystal-heart-starter-set",
-      "system": "swade"
+      "system": "swade",
+      "banner": "modules/swade-crystal-heart-starter/assets/banner.webp"
     },
     {
-      "label": "Actions - Crystal Heart",
+      "label": "Actions",
       "type": "Item",
       "name": "actions-crystal-heart",
       "path": "packs/actions-crystal-heart",
-      "system": "swade"
+      "system": "swade",
+      "banner": "modules/swade-crystal-heart-starter/assets/banner.webp"
     }
   ],
+
+  "packFolders": [
+    {
+      "name": "Crystal Heart - Starter Set",
+      "sorting": "a",
+      "color": "#ad0000",
+      "packs": [
+        "crystal-heart-starter-set",
+        "more-adversaries",
+        "actions-crystal-heart"
+      ]
+    }
+  ],
+  
   "relationships": {
     "systems": [
       {
@@ -39,6 +55,7 @@
       }
     ]
   },
+  
   "url": "https://github.com/brunocalado/swade-crystal-heart-starter",
   "manifest": "https://raw.githubusercontent.com/brunocalado/swade-crystal-heart-starter/main/module.json",
   "download": "https://codeload.github.com/brunocalado/swade-crystal-heart-starter/zip/main"

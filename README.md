@@ -1,4 +1,5 @@
 # Crystal Heart Starter Set
+
 **Syn** is looking for **Crystal Hunters**!
 **Willing to replace your HEART with a CRYSTAL that gives you SUPERPOWERS?¹**
 *(¹Said Crystal also influences your personality in semi-predictable ways.)*
@@ -14,7 +15,11 @@
   <img width="800" src="assets/arts/16.webp">
 </p>
 
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-red?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/mestredigital)
+
 ## Want to roll some DICE?
+
 Inspired by anime and superhero comics, the Crystal Heart roleplaying setting for Savage Worlds was developed in the webcomic Up to Four Players as the characters were playing it. Now you too can become a Syn Agent, explore ancient locations and hunt down powerful Crystals! Replace your heart with a Crystal and gain superpowers! *(also lose your mind; but just a little)*.
 
 Suitable for everyone, from first-time players to savvy Game Master of many years!
@@ -30,18 +35,23 @@ The Starter Set includes:
 </p>
 
 # Learn More At:
+
 [Crystal Heart RPG](https://www.uptofourplayers.com/crystal-heart-rpg/)
 
 # Conversion
+
 This module is a conversion from [Crystal Heart Starter Set](https://www.drivethrurpg.com/product/254714). You can get the original at: 
 [Crystal Heart Starter Set](https://www.drivethrurpg.com/product/254714)
 
 # Complete Module!
+
 If you liked **Crystal Heart Starter Set** you can have the full module with everything from the core book! Click the image to watch the module preview on [Youtube](https://youtu.be/EX-YaEYc5Bk):
 [![Full Module Preview](assets/arts/02-01-Header-agents.webp)](https://youtu.be/EX-YaEYc5Bk)
 
 # LICENSE
+
 Crystal Heart, all unique characters, creatures, and locations, artwork and logos belong to [Up to Four Players](https://www.uptofourplayers.com/crystal-heart-rpg/), Eran Aviram and Aviv Or. The artwork provided in this module is for personal use only with the Foundry Virtual Tabletop Software.
 
 # Mestre Digital
+
 About this module creator: https://sites.google.com/view/mestredigitalmodules
